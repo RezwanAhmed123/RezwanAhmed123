@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RezwanAhmed123
 - 👀 I’m interested in learning how to code and build and maintain databases in the long term or write software.
 - 🌱 I’m currently learning basic Java, I have some experience with Python.
-- 💞️ I’m looking to collaborate with anybody, but im still currently very green to coding so please be patient, thank you!
+- 💞️ I’m looking to collaborate with anybody, but im still relatively new to coding so please be patient, thank you!
 - 📫 Email: maxtalon94@gmail.com
 
 <!---

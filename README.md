@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @RezwanAhmed123
-- 👀 I’m interested in learning how to code and build and maintain databases in the long term or write software.
-- 🌱 I’m currently learning basic Java, I have some experience with Python.
-- 💞️ I’m looking to collaborate with anybody, but im still relatively new to coding so please be patient, thank you!
-- 📫 Email: maxtalon94@gmail.com
+Hi I am a Year 4 student at NUS.
+
+I have experience in Java, Python, C# languages.
+
+I am currently working on a VR project and a machine learning project related to chemical engineering.
+
+I have a good amount of experience in VR using Unity and XR toolkit.
+
+I am currently learning Keras, Tensorflow and Pytorch.
 
 <!---
 RezwanAhmed123/RezwanAhmed123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
